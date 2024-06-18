@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\views\\people\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\views\\people\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\views\\people\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\views\\people\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\models\\peopleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\models\\peopleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\models\\createpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\models\\createpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\data\\ipeoplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\data\\ipeoplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\data\\inmemorypeoplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\data\\inmemorypeoplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|c:\\users\\ejons\\source\\repos\\peoplemvcapp\\peoplemvcapp\\models\\editpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD0F27-8FBC-4DC5-A016-88B1722F27D3}|PeopleMvcApp\\PeopleMvcApp.csproj|solutionrelative:peoplemvcapp\\models\\editpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Create.cshtml",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Views\\People\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Create.cshtml",
+              "RelativeToolTip": "PeopleMvcApp\\Views\\People\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:49:32.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeopleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Models\\PeopleViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Models\\PeopleViewModel.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Models\\PeopleViewModel.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Models\\PeopleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:01.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Models\\Person.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:48:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPeopleService.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Services\\IPeopleService.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Services\\IPeopleService.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Services\\IPeopleService.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Services\\IPeopleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:59:16.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeopleService.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Services\\PeopleService.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Services\\PeopleService.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Services\\PeopleService.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Services\\PeopleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:57:16.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Views\\People\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Delete.cshtml",
+              "RelativeToolTip": "PeopleMvcApp\\Views\\People\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:49:37.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Details.cshtml",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Views\\People\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Details.cshtml",
+              "RelativeToolTip": "PeopleMvcApp\\Views\\People\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:49:42.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Views\\People\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "PeopleMvcApp\\Views\\People\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:49:47.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Program.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:05:10.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Views\\People\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Views\\People\\Edit.cshtml",
+              "RelativeToolTip": "PeopleMvcApp\\Views\\People\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T13:01:21.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Models\\CreatePersonViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Models\\CreatePersonViewModel.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Models\\CreatePersonViewModel.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Models\\CreatePersonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:48:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPeopleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Data\\IPeopleRepo.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Data\\IPeopleRepo.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Data\\IPeopleRepo.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Data\\IPeopleRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InMemoryPeopleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Data\\InMemoryPeopleRepo.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Data\\InMemoryPeopleRepo.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Data\\InMemoryPeopleRepo.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Data\\InMemoryPeopleRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:23.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Controllers\\PeopleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:56.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditPersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Models\\EditPersonViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleMvcApp\\Models\\EditPersonViewModel.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\PeopleMvcApp\\PeopleMvcApp\\Models\\EditPersonViewModel.cs",
+              "RelativeToolTip": "PeopleMvcApp\\Models\\EditPersonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:55:30.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
